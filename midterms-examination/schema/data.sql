@@ -36,4 +36,4 @@ CREATE TABLE action_log (
     username VARCHAR (50),
     action_made VARCHAR (255),
     date_action_made TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-)
+);
